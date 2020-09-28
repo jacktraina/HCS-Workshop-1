@@ -18,4 +18,14 @@ code {
   flex-direction: column;
   width: 60%;
   margin: 16px 0;
+  justify-content: center;
+}
+
+.project-item {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  flex: 1;
+  padding: 20px;
+  justify-content: center;
 }

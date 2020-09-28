@@ -1,9 +1,30 @@
 import React from "react";
+import Project from "../../components/Project/Project";
+
+const descriptionStyle = {
+  textAlign: 'center',
+};
 
 export default function ProjectsScreen() {
   return (
     <div className="screen-background">
-      All your amazing projects will go here!
+      <div>
+        <p style={descriptionStyle} >All your amazing projects will go here!</p>
+      </div>
+      <div className="project-item">
+        <Project 
+          title="Project1"
+          link="https://github.com/jacktraina/Puzzle-Solver"
+        ></Project>
+        <Project 
+          title="Project2"
+          link="https://github.com/jacktraina/PrimsMST"
+        ></Project>
+        <Project 
+          title="Project3"
+          link="https://github.com/jacktraina/lab3"
+        ></Project>
+      </div>
     </div>
   );
 }

@@ -1,17 +1,18 @@
 import React from "react";
 import "./About.css";
-import CutePic from "../../assets/bighappy.png";
+import CutePic from "../../assets/jacktraina.JPG";
 
 export default function AboutScreen() {
   return (
     <div className="screen-background">
       <div className="intro-background">
         <div className="intro-item">
-          <div>here you'll put a picture of yourself</div>
+          <img className="intro-picture" src={CutePic} alt=""/>
         </div>
         <div className="intro-item">
-          Wow wow wow Your Name is a pretty cool person! check out all these
-          details
+          <p>Hi, my name is Jack!</p>
+          <br />
+          <p>Here is where I'll include more info about myself!</p>
         </div>
       </div>
     </div>
