@@ -26,11 +26,15 @@
   font-weight: 400;
 }
 
+.info-link:hover {
+  color: black;
+}
+
 .nav-background {
   display: flex;
   flex-direction: row;
-  border-top: 2px solid rgb(0, 191, 255);
-  border-bottom: 2px solid rgb(0, 191, 255);
+  border-top: 2px solid lightblue;
+  border-bottom: 2px solid lightblue;
   width: 60%;
   justify-content: space-around;
   padding-top: 5px;
@@ -48,4 +52,8 @@
   text-decoration: none;
   font-weight: 500;
   color: gray;
+}
+
+.nav-link:hover {
+  color: black;
 }

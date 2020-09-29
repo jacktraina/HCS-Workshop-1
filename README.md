@@ -1,15 +1,15 @@
-## Your Name
+## Jack Traina
 
 Welcome to my website!
 
-### Added Feature #1
+### Feature 1: An Education Section
 
-Description
+This section allows you to view my previous education and provides individual information for each.
 
-Screenshots
+![Education SS]("../../assets/Education-Screenshot.jpg")
 
-### Added Feature #2
+### Feature 2: About Me Button
 
-Description
+This button toggles more "About Me" text.
 
 Screenshots

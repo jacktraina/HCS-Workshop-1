@@ -9,7 +9,7 @@ export default function ProjectsScreen() {
   return (
     <div className="screen-background">
       <div>
-        <p style={descriptionStyle} >All your amazing projects will go here!</p>
+        <p style={descriptionStyle} >Click below to see some of my projects!</p>
       </div>
       <div className="project-item">
         <Project 

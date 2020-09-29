@@ -20,11 +20,38 @@ li {
 
 .intro-item p {
   margin: 8px 0;
-  text-align: left;
+  text-align: center;
+  font-size: 24px;
 }
 
 .intro-picture {
   width: 100%;
   height: 100%;
-  border: 2px solid rgb(0, 191, 255);
+  border: 2px solid lightblue;
+}
+
+.button1 {
+  background-color: lightblue;
+  border: none;
+  color: rgba(0,0,0,0.5);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  width: 80%;
+}
+
+.button1:hover{
+  color: rgba(0,0,0,1);
+}
+
+.intro-text {
+  justify-content: left;
+  text-align: left;
+  font-size: 16px;
+  padding: 16px;
 }
