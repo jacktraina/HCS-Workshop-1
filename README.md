@@ -6,7 +6,7 @@ Welcome to my website!
 
 This section allows you to view my previous education and provides individual information for each.
 
-![Education SS]("/blob/master/src/assets/Education-Screenshot.png?raw=true")
+![Education SS]("src/assets/Education-Screenshot.png?raw=true")
 
 ### Feature 2: About Me Button
 
