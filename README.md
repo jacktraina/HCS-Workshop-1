@@ -12,5 +12,5 @@ This section allows you to view my previous education and provides individual in
 
 This button toggles more "About Me" text.
 
-![Button SS Hide]("https://github.com/jacktraina/HCS-Workshop-1/blob/master/src/assets/ButtonHide.png")
-![Button SS Show]("https://github.com/jacktraina/HCS-Workshop-1/blob/master/src/assets/ButtonShow.png")
+![Button SS Hide](https://github.com/jacktraina/HCS-Workshop-1/blob/master/src/assets/ButtonHide.png)
+![Button SS Show](https://github.com/jacktraina/HCS-Workshop-1/blob/master/src/assets/ButtonShow.png)
